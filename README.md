@@ -1,7 +1,7 @@
 # @nodewell/brand
 
-[![ISC License][badge-license-isc]][url-license-doc]
-[![CC-BY-4.0 License][badge-license-cc]][url-license-doc]
+[![ISC License][badge-license-isc]][url-license-doc-isc]
+[![CC-BY-4.0 License][badge-license-cc]][url-license-doc-cc4]
 
 ## Colors
 
@@ -17,10 +17,10 @@ Dual license. You may use it under the [**ISC**][url-license-isc] license *or*
 the	[**CC-BY-4.0**][url-license-cc4] license.
 
  - Software:
-   - [ISC][url-license-doc] @ [Richard King](www.richrdkng.com)
+   - [ISC][url-license-doc-isc] @ [Richard King](www.richrdkng.com)
 
  - Media:
-   - [![CC-BY-4.0][image-cc4]][url-license-doc] @ [Richard King](www.richrdkng.com)
+   - [![CC-BY-4.0][image-cc4]][url-license-doc-cc4] @ [Richard King](www.richrdkng.com)
 
 
   <!--- ======================================================================================= -->
@@ -37,6 +37,8 @@ the	[**CC-BY-4.0**][url-license-cc4] license.
   [image-cc4]: https://i.creativecommons.org/l/by/4.0/80x15.png
 
   <!--- URLs -->
-  [url-license-doc]: LICENSE.md
-  [url-license-isc]: https://choosealicense.com/licenses/isc/
-  [url-license-cc4]: http://creativecommons.org/licenses/by/4.0/
+  [url-license-doc]:     LICENSE.md
+  [url-license-doc-isc]: LICENSE.md#isc-license
+  [url-license-doc-cc4]: LICENSE.md#creative-commons-attribution-40-international-public-license
+  [url-license-isc]:     https://choosealicense.com/licenses/isc/
+  [url-license-cc4]:     http://creativecommons.org/licenses/by/4.0/
