@@ -165,7 +165,7 @@ Licensed Material available under these terms and conditions.
      License does not apply, and You do not need to comply with
      its terms and conditions.
 
-  3. **Term.** The term of this Public License is specified in Section ***6(a)***.
+  3. **Term.** The term of this Public License is specified in Section ***6(a)*** .
 
   4. **Media and formats; technical modifications allowed.** The
      Licensor authorizes You to exercise the Licensed Rights in
@@ -198,7 +198,7 @@ Licensed Material available under these terms and conditions.
      are, or that Your use of the Licensed Material is, connected
      with, or sponsored, endorsed, or granted official status by,
      the Licensor or others designated to receive attribution as
-     provided in Section ***3(a)(1)(A)(i)***.
+     provided in Section ***3(a)(1)(A)(i)*** .
 
 - b. **Other rights.**
 
@@ -385,14 +385,14 @@ public licenses is dedicated to the public domain under the [CC0 Public
 Domain Dedication](creativecommons.org/publicdomain/zero/1.0/legalcode). 
 Except for the limited purpose of indicating that material is shared 
 under a Creative Commons public license or as otherwise permitted 
-by the Creative Commons policies published at creativecommons.org/policies, 
-Creative Commons does not authorize the use of the 
-trademark "Creative Commons" or any other trademark or logo
-of Creative Commons without its prior written consent including,
-without limitation, in connection with any unauthorized modifications
-to any of its public licenses or any other arrangements,
+by the Creative Commons policies published at 
+https://creativecommons.org/policies, Creative Commons does not 
+authorize the use of the trademark "Creative Commons" or any other 
+trademark or logo of Creative Commons without its prior written consent
+including, without limitation, in connection with any unauthorized 
+modifications to any of its public licenses or any other arrangements,
 understandings, or agreements concerning use of licensed material. For
 the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
-Creative Commons may be contacted at creativecommons.org.
+Creative Commons may be contacted at https://creativecommons.org.
