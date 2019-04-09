@@ -6,8 +6,15 @@ node_js:
 notifications:
   email: false
 
+cache:
+  npm: true
+
 jobs:
   include:
+    - stage: test
+      script:
+        - npm run test
+
     - stage: release
       script: skip
       deploy:
