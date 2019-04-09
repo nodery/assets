@@ -14,28 +14,28 @@ The official brand of [**@nodewell**][url-homepage].
 
 | Type | Asset                                                                                    |
 | ---- | ---------------------------------------------------------------------------------------- |
-| Logo | ![](dist/logo.svg)                                                                  |
-| Lead | ![](dist/twitter-avatar.png)                                                                  |
+| Logo | ![](dist/logo.svg)                                                                       |
+| Lead | ![](dist/github-lead.svg)                                                                |
 |      | ........................................................................................ |
 
 ## Colors
 
- - nodewell green: **#69B247**
-   - ![#69B247][color-nodewell-green]
+- nodewell green: **#69B247**
+  - ![#69B247][color-nodewell-green]
       
- - nodewell gray: **#424344**
-   - ![#424344][color-nodewell-gray]
+- nodewell gray: **#424344**
+  - ![#424344][color-nodewell-gray]
 
 ## License
 
 Dual license. You may use it under the [**ISC**][url-license-isc] license *or* 
 the	[**CC-BY-4.0**][url-license-cc4] license.
 
- - Software:
-   - [ISC][url-license-doc-isc] @ [Richard King](www.richrdkng.com)
+- Software:
+  - [ISC][url-license-doc-isc] @ [Richard King](www.richrdkng.com)
 
- - Media:
-   - [![CC-BY-4.0][image-cc4]][url-license-doc-cc4] @ [Richard King](www.richrdkng.com)
+- Media:
+  - [![CC-BY-4.0][image-cc4]][url-license-doc-cc4] @ [Richard King](www.richrdkng.com)
 
 
   <!--- References ============================================================================ -->
@@ -68,5 +68,3 @@ the	[**CC-BY-4.0**][url-license-cc4] license.
   [url-license-isc]:     https://choosealicense.com/licenses/isc/
   [url-license-cc4]:     https://creativecommons.org/licenses/by/4.0/
   [url-homepage]:        https://github.com/nodewell
-  [url-asset-logo]:      https://github.com/nodewell/brand/blob/master/dist/logo.svg
-  [url-asset-lead]:      https://github.com/nodewell/brand/blob/master/dist/github-lead.svg
