@@ -2,10 +2,10 @@
 
 [![GitHub Release][badge-github]][url-github]
 [![Travis CI][badge-travis]][url-travis]
+[![Release Workflow][badge-release]][url-release]
+[![Style Guide][badge-style]][url-style]
 [![ISC License][badge-license-isc]][url-license-doc-isc]
 [![CC-BY-4.0 License][badge-license-cc]][url-license-doc-cc4]
-[![Style Guide][badge-style]][url-style]
-[![Release Workflow][badge-release]][url-release]
 [![PRs Welcome][badge-contrib]][url-contrib-doc]
 
 The official brand of [**@nodewell**][url-homepage].
