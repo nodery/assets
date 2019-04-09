@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/nodewell/brand/compare/v1.1.3...v1.1.4) (2019-04-09)
+
+
+### Bug Fixes
+
+* **readme:** add missing sections ([3560557](https://github.com/nodewell/brand/commit/3560557))
+
 ## [1.1.3](https://github.com/nodewell/brand/compare/v1.1.2...v1.1.3) (2019-04-09)
 
 
