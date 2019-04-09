@@ -14,8 +14,8 @@ The official brand of [**@nodewell**][url-homepage].
 
 | Type | Asset                                                                                    |
 | ---- | ---------------------------------------------------------------------------------------- |
-| Logo | ![logo](dist/logo.svg)                                                                   |
-| Lead | ![lead](dist/github-lead.svg)                                                            |
+| Logo | ![logo][url-asset-logo]                                                                  |
+| Lead | ![lead][url-asset-lead]                                                                  |
 |      | ........................................................................................ |
 
 ## Colors
@@ -61,10 +61,12 @@ the	[**CC-BY-4.0**][url-license-cc4] license.
   [url-travis]:          https://travis-ci.org/nodewell/brand
   [url-style]:           https://standardjs.com
   [url-release]:         https://semantic-release.gitbook.io/semantic-release
-  [url-license-doc]:     LICENSE.md
+  [url-license-doc]:     https://github.com/nodewell/brand/blob/master/LICENSE.md
   [url-license-doc-isc]: https://github.com/nodewell/brand/blob/master/LICENSE.md#isc-license
   [url-license-doc-cc4]: https://github.com/nodewell/brand/blob/master/LICENSE.md#creative-commons-attribution-40-international-public-license
-  [url-contrib-doc]:     CONTRIBUTING.md
+  [url-contrib-doc]:     https://github.com/nodewell/brand/blob/master/.github/CONTRIBUTING.md
   [url-license-isc]:     https://choosealicense.com/licenses/isc/
-  [url-license-cc4]:     http://creativecommons.org/licenses/by/4.0/
+  [url-license-cc4]:     https://creativecommons.org/licenses/by/4.0/
   [url-homepage]:        https://github.com/nodewell
+  [url-asset-logo]:      https://github.com/nodewell/brand/blob/master/dist/logo.svg
+  [url-asset-lead]:      https://github.com/nodewell/brand/blob/master/dist/github-lead.svg
