@@ -14,8 +14,8 @@ The official brand of [**@nodewell**][url-homepage].
 
 | Type | Asset                                                                                    |
 | ---- | ---------------------------------------------------------------------------------------- |
-| Logo | ![logo][url-asset-logo]                                                                  |
-| Lead | ![lead][url-asset-lead]                                                                  |
+| Logo | ![](dist/logo.svg)                                                                  |
+| Lead | ![](dist/twitter-avatar.png)                                                                  |
 |      | ........................................................................................ |
 
 ## Colors
