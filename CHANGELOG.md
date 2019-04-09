@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/nodewell/brand/compare/v1.1.2...v1.1.3) (2019-04-09)
+
+
+### Bug Fixes
+
+* **readme:** fix images, fix formatting ([ac7dc86](https://github.com/nodewell/brand/commit/ac7dc86))
+
 ## [1.1.2](https://github.com/nodewell/brand/compare/v1.1.1...v1.1.2) (2019-04-09)
 
 
