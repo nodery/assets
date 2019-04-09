@@ -28,6 +28,26 @@ The official brand of [**@nodewell**][url-homepage].
 - nodewell gray: **#424344**
   - ![#424344][color-nodewell-gray]
 
+## Installation
+
+```bash
+# Using NPM
+npm install @nodewell/brand --save-dev
+```
+
+## Usage
+
+```javascript
+const brand = require('@nodewell/brand')
+
+console.log(brand) // { green: '#69B247', gray: '#424344' }
+```
+
+## Contribution
+
+**Any contribution is appreciated**. To get going, check out the 
+[**contribution guidelines**][url-contrib-doc]. ***Thank you and have fun!***
+
 ## License
 
 Dual license. You may use it under the [**ISC**][url-license-isc] license *or* 
