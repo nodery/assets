@@ -2,10 +2,12 @@
 
 [![GitHub Release][badge-github]][url-github]
 [![Travis CI][badge-travis]][url-travis]
-[![Release Workflow][badge-release]][url-release]
-[![Style Guide][badge-style]][url-style]
 [![ISC License][badge-license-isc]][url-license-doc-isc]
 [![CC-BY-4.0 License][badge-license-cc]][url-license-doc-cc4]
+
+[![Code Style Guide][badge-style]][url-style]
+[![Commit Style Guide][badge-commit]][url-commit]
+[![Release Workflow][badge-release]][url-release]
 [![PRs Welcome][badge-contrib]][url-contrib-doc]
 
 The official brand of [**@nodewell**][url-homepage].
@@ -43,12 +45,13 @@ the	[**CC-BY-4.0**][url-license-cc4] license.
   <!--- Badges -->
   [badge-github]:      https://img.shields.io/github/release/nodewell/brand.svg?style=social
   [badge-travis]:      https://img.shields.io/travis/nodewell/brand.svg?style=flat-square
-  [badge-style]:       https://img.shields.io/badge/style-standardjs-f3df49.svg?style=flat-square
-  [badge-release]:     https://img.shields.io/badge/release-semantic--release-e10079.svg?style=flat-square
   [badge-license-isc]: https://img.shields.io/badge/license-ISC-blue.svg?style=flat-square  
   [badge-license-cc]:  https://img.shields.io/badge/license-CC--BY--4.0-blue.svg?style=flat-square
   [badge-contrib]:     https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
-
+  [badge-style]:       https://img.shields.io/badge/style-standardjs-f3df49.svg?style=flat-square
+  [badge-commit]:      https://img.shields.io/badge/commit-commitizen-fe7d37.svg?style=flat-square
+  [badge-release]:     https://img.shields.io/badge/release-semantic--release-e10079.svg?style=flat-square
+  
   <!--- Colors -->
   [color-nodewell-green]: https://img.shields.io/badge/-%2369B247-69B247.svg?style=for-the-badge
   [color-nodewell-gray]:  https://img.shields.io/badge/-%23424344-424344.svg?style=for-the-badge
@@ -60,8 +63,9 @@ the	[**CC-BY-4.0**][url-license-cc4] license.
   [url-github]:          https://github.com/nodewell/brand
   [url-travis]:          https://travis-ci.org/nodewell/brand
   [url-style]:           https://standardjs.com
+  [url-commit]:          http://commitizen.github.io/cz-cli
   [url-release]:         https://semantic-release.gitbook.io/semantic-release
-  [url-license-doc]:     https://github.com/nodewell/brand/blob/master/LICENSE.md
+  [url-license-doc]:     LICENSE.md
   [url-license-doc-isc]: https://github.com/nodewell/brand/blob/master/LICENSE.md#isc-license
   [url-license-doc-cc4]: https://github.com/nodewell/brand/blob/master/LICENSE.md#creative-commons-attribution-40-international-public-license
   [url-contrib-doc]:     https://github.com/nodewell/brand/blob/master/.github/CONTRIBUTING.md
