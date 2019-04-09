@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/nodewell/brand/compare/v1.1.0...v1.1.1) (2019-04-09)
+
+
+### Bug Fixes
+
+* **readme:** fix link issues ([d9f69ef](https://github.com/nodewell/brand/commit/d9f69ef))
+
 # [1.1.0](https://github.com/nodewell/brand/compare/v1.0.0...v1.1.0) (2019-04-09)
 
 
