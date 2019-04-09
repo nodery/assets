@@ -7,12 +7,12 @@ This will **make life easier and help to avoid wasting time** on things, which a
 
 ## Run through the Development Guide
 
-Check out the short, but concise [**development guide**](.github/DEVELOPMENT.md) 
+Check out the short, but concise [**development guide**][url-dev-doc]
 for tools, structure, and commands.  
 
 ## Discuss the changes before doing them
 
- - First of all, **open an issue in the repository** [**using the bug tracker**][bug-tracker-url] 
+ - First of all, **open an issue in the repository** [**using the bug tracker**][url-issues] 
    **and describe the contribution** you would like to make, the bug you found or any other ideas you have.
    This will help to get you started on the right foot.
    
@@ -27,8 +27,7 @@ for tools, structure, and commands.
  - Fork the project in your account and **create a branch with your fix** using 
    the naming style: **some-awesome-feature** or **some-issue-fix**.
 
- - Commit your changes in that branch. Make sure you follow [**StandardJS**][stdjs-url] and the **tests** and 
-   the **precommit hook** ran without errors:
+ - Commit your changes in that branch. Make sure you follow [**StandardJS**][url-style] and the **tests** ran without errors:
    
    ```bash
    # Run all tests with style and coverage checks
@@ -63,7 +62,8 @@ You may get feedback about what should be fixed/changed in your modified code.
 
   <!--- References ============================================================================ -->
 
-  [bug-tracker-url]: https://github.com/ntbx/get-sri/issues
-  [stdjs-url]:       https://standardjs.com
+  [url-dev-doc]:     https://github.com/nodewell/brand/blob/master/.github/DEVELOPMENT.md
+  [url-issues]:      https://github.com/nodewell/brand/issues
+  [url-style]:       https://standardjs.com
   [arr-contrib-url]: https://docs.npmjs.com/files/package.json#people-fields-author-contributors
   [pull-req-url]:    https://blog.github.com/2013-05-14-closing-issues-via-pull-requests
