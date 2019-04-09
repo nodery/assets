@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/nodewell/brand/compare/v1.1.1...v1.1.2) (2019-04-09)
+
+
+### Bug Fixes
+
+* **readme:** tinker with images ([8ce816f](https://github.com/nodewell/brand/commit/8ce816f))
+
 ## [1.1.1](https://github.com/nodewell/brand/compare/v1.1.0...v1.1.1) (2019-04-09)
 
 
