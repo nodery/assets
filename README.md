@@ -1,4 +1,4 @@
-# @nodewell/brand
+# @nodewell/assets
 
 [![GitHub Release][badge-github]][url-github]
 [![Travis CI][badge-travis]][url-travis]
@@ -10,7 +10,7 @@
 [![Release Workflow][badge-release]][url-release]
 [![PRs Welcome][badge-contrib]][url-contrib-doc]
 
-The official brand of [**@nodewell**][url-homepage].
+The official assets of [**@nodewell**][url-homepage].
 
 ## Assets
 
@@ -32,15 +32,15 @@ The official brand of [**@nodewell**][url-homepage].
 
 ```bash
 # Using NPM
-npm install @nodewell/brand --save-dev
+npm install @nodewell/assets --save-dev
 ```
 
 ## Usage
 
 ```javascript
-const brand = require('@nodewell/brand')
+const assets = require('@nodewell/assets')
 
-console.log(brand) // { green: '#69B247', gray: '#424344' }
+console.log(assets) // { green: '#69B247', gray: '#424344' }
 ```
 
 ## Contribution
@@ -63,8 +63,8 @@ the	[**CC-BY-4.0**][url-license-cc4] license.
   <!--- References ============================================================================ -->
 
   <!--- Badges -->
-  [badge-github]:      https://img.shields.io/github/release/nodewell/brand.svg?style=social
-  [badge-travis]:      https://img.shields.io/travis/nodewell/brand.svg?style=flat-square
+  [badge-github]:      https://img.shields.io/github/release/nodewell/assets.svg?style=social
+  [badge-travis]:      https://img.shields.io/travis/nodewell/assets.svg?style=flat-square
   [badge-license-isc]: https://img.shields.io/badge/license-ISC-blue.svg?style=flat-square  
   [badge-license-cc]:  https://img.shields.io/badge/license-CC--BY--4.0-blue.svg?style=flat-square
   [badge-contrib]:     https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
@@ -80,15 +80,15 @@ the	[**CC-BY-4.0**][url-license-cc4] license.
   [image-cc4]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
   <!--- URLs -->
-  [url-github]:          https://github.com/nodewell/brand
-  [url-travis]:          https://travis-ci.org/nodewell/brand
+  [url-github]:          https://github.com/nodewell/assets
+  [url-travis]:          https://travis-ci.org/nodewell/assets
   [url-style]:           https://standardjs.com
   [url-commit]:          http://commitizen.github.io/cz-cli
   [url-release]:         https://semantic-release.gitbook.io/semantic-release
   [url-license-doc]:     LICENSE.md
-  [url-license-doc-isc]: https://github.com/nodewell/brand/blob/master/LICENSE.md#isc-license
-  [url-license-doc-cc4]: https://github.com/nodewell/brand/blob/master/LICENSE.md#creative-commons-attribution-40-international-public-license
-  [url-contrib-doc]:     https://github.com/nodewell/brand/blob/master/.github/CONTRIBUTING.md
+  [url-license-doc-isc]: https://github.com/nodewell/assets/blob/master/LICENSE.md#isc-license
+  [url-license-doc-cc4]: https://github.com/nodewell/assets/blob/master/LICENSE.md#creative-commons-attribution-40-international-public-license
+  [url-contrib-doc]:     https://github.com/nodewell/assets/blob/master/.github/CONTRIBUTING.md
   [url-license-isc]:     https://choosealicense.com/licenses/isc/
   [url-license-cc4]:     https://creativecommons.org/licenses/by/4.0/
   [url-homepage]:        https://github.com/nodewell

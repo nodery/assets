@@ -1,9 +1,9 @@
-@nodewell/brand is dual licensed. You may use it under the **ISC** license
-*or* the	**CC-BY-4.0** license.
+@nodewell/assets is dual licensed. You may use it under the **ISC** license
+*or* the **CC-BY-4.0** license.
 
 # ISC License
 
-Copyright (c) 2019, Richard King <richrdkng@gmail.com> (www.richrdkng.com)
+Copyright (c) 2019-2020, Richard King <richrdkng@gmail.com> (www.richrdkng.com)
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
