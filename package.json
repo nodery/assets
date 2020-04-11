@@ -1,27 +1,17 @@
 {
-  "name": "@nodewell/brand",
+  "name": "@nodewell/assets",
   "version": "0.0.0-development",
-  "description": "The official brand of @nodewell.",
+  "description": "The official assets of @nodewell.",
   "author": "Richard King <richrdkng@gmail.com> (www.richrdkng.com)",
-  "homepage": "https://github.com/nodewell/brand#readme",
   "license": "(ISC OR CC-BY-4.0)",
-  "main": "dist/index.js",
+  "homepage": "https://github.com/nodewell/assets#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nodewell/brand.git"
+    "url": "https://github.com/nodewell/assets.git"
   },
   "bugs": {
-    "url": "https://github.com/nodewell/brand/issues"
+    "url": "https://github.com/nodewell/assets/issues"
   },
-  "publishConfig": {
-    "access": "public"
-  },
-  "keywords": [
-    "nodewell",
-    "brand",
-    "icon",
-    "logo"
-  ],
   "scripts": {
     "style:check": "standard --verbose | snazzy",
     "style:fix": "standard --fix",
@@ -34,16 +24,30 @@
     }
   },
   "devDependencies": {
-    "@semantic-release/changelog": "^3.0.2",
-    "@semantic-release/commit-analyzer": "^6.1.0",
-    "@semantic-release/git": "^7.0.8",
-    "@semantic-release/github": "^5.2.10",
-    "@semantic-release/npm": "^5.1.4",
-    "@semantic-release/release-notes-generator": "^7.1.4",
-    "commitizen": "^3.0.7",
-    "cz-conventional-changelog": "^2.1.0",
-    "semantic-release": "^15.13.3",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/exec": "^5.0.0",
+    "@semantic-release/git": "^9.0.0",
+    "commitizen": "^4.0.4",
+    "cz-conventional-changelog": "^3.1.0",
+    "del": "^5.1.0",
+    "delay": "^4.3.0",
+    "gulp": "^4.0.2",
+    "gulp-debug": "^4.0.0",
+    "semantic-release": "^17.0.4",
     "snazzy": "^8.0.0",
-    "standard": "^12.0.1"
-  }
+    "standard": "^14.3.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "nodewell",
+    "asset",
+    "assets",
+    "brand",
+    "icon",
+    "icons",
+    "logo",
+    "logos"
+  ]
 }
