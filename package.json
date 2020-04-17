@@ -13,10 +13,11 @@
     "url": "https://github.com/nodewell/assets/issues"
   },
   "scripts": {
-    "style:check": "standard --verbose | snazzy",
-    "style:fix": "standard --fix",
-    "test": "npm run style:check",
-    "commit": "git-cz"
+    "pre-build": "npm run gulp -- pre-build",
+    "build": "npm run gulp -- build",
+    "gulp": "gulp --gulpfile scripts/index.js",
+    "commit": "git-cz",
+    "semantic-release": "semantic-release"
   },
   "config": {
     "commitizen": {
