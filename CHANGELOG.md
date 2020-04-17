@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/nodewell/assets/compare/v1.1.4...v1.2.0) (2020-04-17)
+
+
+### Features
+
+* update docs accordingly ([cc881b8](https://github.com/nodewell/assets/commit/cc881b8490e162ec08718f7cc0c2ad60f8468c53))
+
 ## [1.1.4](https://github.com/nodewell/assets/compare/v1.1.3...v1.1.4) (2019-04-09)
 
 
