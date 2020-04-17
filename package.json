@@ -13,11 +13,9 @@
     "url": "https://github.com/nodewell/assets/issues"
   },
   "scripts": {
-    "pre-build": "npm run gulp -- pre-build",
     "build": "npm run gulp -- build",
     "gulp": "gulp --gulpfile scripts/index.js",
-    "commit": "git-cz",
-    "semantic-release": "semantic-release"
+    "commit": "git-cz"
   },
   "config": {
     "commitizen": {
@@ -30,11 +28,9 @@
     "@semantic-release/git": "^9.0.0",
     "commitizen": "^4.0.4",
     "cz-conventional-changelog": "^3.1.0",
-    "del": "^5.1.0",
-    "delay": "^4.3.0",
     "gulp": "^4.0.2",
     "gulp-debug": "^4.0.0",
-    "semantic-release": "^17.0.4",
+    "semantic-release": "^17.0.6",
     "snazzy": "^8.0.0",
     "standard": "^14.3.3"
   },
