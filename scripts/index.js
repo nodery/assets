@@ -8,14 +8,6 @@ const png = require('imagemin-pngquant')
 
 const root = path.resolve(__dirname, '../')
 
-const svgoPluginsConfig = [
-  { cleanupNumericValues: { floatPrecision: 0 } },
-  { convertPathData: { floatPrecision: 0 } },
-  { transformsWithOnePath: { floatPrecision: 0 } },
-  { convertTransform: { floatPrecision: 0 } },
-  { cleanupListOfValues: { floatPrecision: 0 } }
-]
-
 gulp.task('build:copy-files', async () => {
   gulp
     .src([
@@ -27,11 +19,21 @@ gulp.task('build:copy-files', async () => {
 })
 
 gulp.task('build:logo', async () => {
+  const floatPrecision = 0
+
   gulp
     .src(`${root}/src/logo/**/*.svg`)
     .pipe(debug())
     .pipe(imagemin([
-      imagemin.svgo({ plugins: svgoPluginsConfig })
+      imagemin.svgo({
+        plugins: [
+          { cleanupNumericValues: { floatPrecision } },
+          { convertPathData: { floatPrecision } },
+          { transformsWithOnePath: { floatPrecision } },
+          { convertTransform: { floatPrecision } },
+          { cleanupListOfValues: { floatPrecision } }
+        ]
+      })
     ]))
     .pipe(gulp.dest(`${root}/dist/logo`))
 })
@@ -55,7 +57,15 @@ gulp.task('build:media:github:svg', async () => {
     .src(`${root}/src/media/github/**/*.svg`)
     .pipe(debug())
     .pipe(imagemin([
-      imagemin.svgo({ plugins: svgoPluginsConfig })
+      imagemin.svgo({
+        plugins: [
+          { cleanupNumericValues: { floatPrecision: 0 } },
+          { convertPathData: { floatPrecision: 1 } },
+          { transformsWithOnePath: { floatPrecision: 0 } },
+          { convertTransform: { floatPrecision: 0 } },
+          { cleanupListOfValues: { floatPrecision: 0 } }
+        ]
+      })
     ]))
     .pipe(gulp.dest(`${root}/dist/media/github`))
 })
