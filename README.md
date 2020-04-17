@@ -9,7 +9,9 @@
   <!-- CI badge -->
   <a href="https://github.com/nodewell/assets/actions?query=workflow%3Aci"><img src="https://github.com/nodewell/assets/workflows/ci/badge.svg?style=flat-square" alt="ci-badge"></a>
   <!-- Dependency badge -->
-  <a href="https://david-dm.org/nodewell/assets"><img src="https://img.shields.io/badge/dependabot-enabled-brightgreen.svg?style=flat-square" alt="dependency-badge"></a>  
+  <a href="https://david-dm.org/nodewell/assets"><img src="https://img.shields.io/badge/dependabot-enabled-brightgreen.svg?style=flat-square" alt="dependency-badge"></a>
+  <!-- Contribution badge -->
+  <a href="https://github.com/nodewell/assets/blob/master/.github/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="contribution-badge"></a>
 </p>
 
 <!-- Badges - 2nd row -->
@@ -23,9 +25,7 @@
   <!-- License badge 1 -->
   <a href="https://github.com/nodewell/assets/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-ISC-blue.svg?style=flat-square" alt="license-badge"></a>
   <!-- License badge 2 -->
-  <a href="https://github.com/nodewell/assets/blob/master/LICENSE.md#creative-commons-attribution-40-international-public-license"><img src="https://img.shields.io/badge/license-CC--BY--4.0-blue.svg?style=flat-square" alt="license-badge"></a>
-  <!-- Contribution badge -->
-  <a href="https://github.com/nodewell/assets/blob/master/.github/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="contribution-badge"></a>
+  <a href="https://github.com/nodewell/assets/blob/master/LICENSE.md#creative-commons-attribution-40-international-public-license"><img src="https://img.shields.io/badge/license-CC--BY--4.0-blue.svg?style=flat-square" alt="license-badge"></a>  
 </p>
 
 ---
