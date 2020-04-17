@@ -13,6 +13,8 @@
     "url": "https://github.com/nodewell/assets/issues"
   },
   "scripts": {
+    "lint": "standard --verbose | snazzy",
+    "lint:fix": "standard --fix",
     "build": "npm run gulp -- build",
     "gulp": "gulp --gulpfile scripts/index.js",
     "commit": "git-cz"
