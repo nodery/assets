@@ -33,7 +33,7 @@
     "gulp": "^4.0.2",
     "gulp-debug": "^4.0.0",
     "gulp-imagemin": "^7.1.0",
-    "imagemin-pngquant": "^8.0.0",
+    "imagemin-pngquant": "^9.0.2",
     "semantic-release": "^17.0.6",
     "snazzy": "^8.0.0",
     "standard": "^14.3.3"
